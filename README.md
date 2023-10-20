@@ -1,4 +1,18 @@
-# Northwind
+# E-Commerce System Frontend (Angular, Typescript, Html, CSS, Bootstrap)
+
+- Customers, products and stock quantities in the database are listed on the **homepage**.
+  
+- When a category is selected on the home page, products belonging to thatcategory are listed.
+
+- The addition of a **pipe search** feature enables users to search for products moreconveniently.
+
+- **Html-Selection Option** has been added to the Home Page where the products arelisted.
+
+- With the values entered here, **products suitable for the filter** are listed fromthe API. 
+
+- An "Add to cart" button has been added to the products.
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
